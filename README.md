@@ -11,18 +11,18 @@
 
 <h1 align="center">
 <sub>
-<img src="https://github.com/gorhill/uBlock/blob/master/src/img/ublock.svg" height="38" width="38">
+<img src="https://github.com/labibrayan14/aBlock/blob/master/src/img/ablock.svg" height="38" width="38">
 </sub>
-uBlock Origin (uBO)
+aBlock Origin (uBO)
 </h1>
 <p align="center">
-<sub><a href="https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org"><b>BEWARE!</b> uBO is (and has always been) COMPLETELY UNRELATED to the website <code>ublock.org</code></a>.</sub>
+<sub><a href="https://github.com/labibrayan14/aBlock/wiki/aBlock-Origin-is-completely-unrelated-to-the-web-site-ablock.org"><b>BEWARE!</b> uBO is (and has always been) COMPLETELY UNRELATED to the website <code>ablock.org</code></a>.</sub>
 </p>
 
 ***
 
 <p align="center">
-<a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get uBlock Origin for Firefox"></a>
+<a href="https://addons.mozilla.org/addon/ablock-origin/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get aBlock Origin for Firefox"></a>
 <a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get uBlock Origin for Microsoft Edge"></a>
 <a href="https://addons.opera.com/extensions/details/ublock/"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get uBlock Origin for Opera"></a>
 <a href="https://addons.thunderbird.net/thunderbird/addon/ublock-origin/"><img src="https://user-images.githubusercontent.com/124740436/235314672-73243149-3683-4407-a2d5-ad0f2b08bc17.png" alt="Get uBlock Origin for Thunderbird"></a>
